@@ -15,7 +15,7 @@ For the purpose of the project CMU Panoptic Dataset is used.(http://domedb.perce
 
 This dataset provides full body HD images as along with the coordinates of human joints in each image.
 
-Because the project was made in a average computer(GTX 1080) and there was no option training the model on the cloud,due to huge dataset that comes with many training hours, we redifined the size of the image and the groundtruth to be 224x224x3.Beacause 1920x1080 images are not squared , they being cropped to 1080x1080 and images with groundtruth that exceeds 1080 value are discarded.Then we apply the transformation.
+Because the project was made in a average computer(GTX 1080) and there was no option training the model on the cloud,due to huge dataset that comes with many training hours, we redifined the size of the image and the groundtruth to be 224x224x3.
 
 Tf records for the images and labels are used to build a solid input pipeline in order to train efficiently our model.
 
