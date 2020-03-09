@@ -19,6 +19,8 @@ Because the project was made in a average computer(GTX 1080) and there was no op
 
 Tf records for the images and labels are used to build a solid input pipeline in order to train efficiently our model.
 
+![image](https://user-images.githubusercontent.com/61696612/76245019-d854fa00-6243-11ea-81f1-ba4210f407dd.png)
+
 
 ## Training
 
