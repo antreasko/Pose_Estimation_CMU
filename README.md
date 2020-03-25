@@ -3,7 +3,7 @@
 
 
 Pose estimation is the localization of human joints in images or videos. 
-The goal is to estimate a 2D pose (x,y) coordinates for each joint from a RGB image
+The goal is to estimate a 2D pose (x,y) coordinates for each joint from a RGB image.
 Vision based human pose estimation is an non-invasive technology for human-computer interaction (HCI). Direct use of the body as an input device provides an attractive interaction method, with minimum need for specialized equipment, such as sensors, but a camera and a processing platform.
 In this project, using latest Convolutional Neural Network architectures, we create a module that it could be deployed on an any pc with camera.
 
